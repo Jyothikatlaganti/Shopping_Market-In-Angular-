@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "prasad",
+      "lastname": "teena",
+      "email": "prasad@gmail.com",
+      "mobile": 8765432345,
+      "salary": "30000"
+    },
+    {
+      "id": 2,
+      "firstname": "teena",
+      "lastname": "teena",
+      "email": "teena@gmail.com",
+      "mobile": 9087654367,
+      "salary": "80900"
+    },
+    {
+      "id": 3,
+      "firstname": "raj",
+      "lastname": "kumar",
+      "email": "raj@gmail.com",
+      "mobile": 1234567,
+      "salary": "12000"
+    },
+    {
+      "id": 4,
+      "firstname": "radha",
+      "lastname": "reddy",
+      "email": "radha@gmail.com",
+      "mobile": 9087654678,
+      "salary": "908789"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "teena",
+      "email": "teena@gmail.com",
+      "password": "123456",
+      "mobile": 123456,
+      "id": 1
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 2
+    },
+    {
+      "fullname": "prasad_user",
+      "email": "prasad_user@gmail.com",
+      "password": "prasad",
+      "mobile": 12345678,
+      "id": 3
+    },
+    {
+      "fullname": "sample",
+      "email": "sample@gmail.com",
+      "password": "sample",
+      "mobile": 8987654,
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
